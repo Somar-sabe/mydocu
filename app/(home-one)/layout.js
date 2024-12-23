@@ -1,4 +1,5 @@
-import { inter, syne } from "../fonts";
+import { arimo, inter } from "../fonts";
+
 // Bootstrap
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -18,8 +19,8 @@ import "swiper/css/pagination";
 import "swiper/css/scrollbar";
 
 import ImportBsJS from "@/components/BootstrapClient";
-import Footer from "@/components/home-one/footer";
-import Header from "@/components/home-one/header";
+import Footer from "@/components/home-four/footer";
+import Header from "@/components/home-four/header";
 
 // main css
 import "../../public/css/app.css";
@@ -27,14 +28,14 @@ import "../../public/css/main.css";
 import "../../public/css/mobile-nav.css";
 
 export const metadata = {
-	title: "Aximo || Responsive Next.js Template",
-	description: "Aximo || Responsive Next.js Template",
+	title: "Aximo || Responsive Next.js Template - Home Four",
+	description: "Aximo || Responsive Next.js Template Home Four",
 };
 
-export default function HomeOneLayout({ children }) {
+export default function HomeFourLayout({ children }) {
 	return (
 		<html lang="en">
-			<body className={`${syne.variable} ${inter.variable}`}>
+			<body className={`${inter.variable} ${arimo.variable}`}>
 				<ImportBsJS />
 				<Header />
 				{children}
