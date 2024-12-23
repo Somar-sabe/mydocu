@@ -1,16 +1,15 @@
 import { Outlet } from "react-router-dom";
-import useScrollTop from "../../hooks/useScrollTop";
-import Preloader from "../common/Preloader";
-import ScrollToTop from "../common/ScrollToTop";
-function Layout() {
-	useScrollTop();
+import Footer from "../home-four/footer";
+import Header from "../home-four/header";
+function LayoutFour() {
 	return (
 		<>
-			<Preloader />
+			<Header />
 			<Outlet />
-			<ScrollToTop />
+			<Footer />
 		</>
 	);
 }
 
-export default Layout;
+export default LayoutFour;
+
