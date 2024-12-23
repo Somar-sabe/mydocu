@@ -1,7 +1,7 @@
 import { Outlet } from "react-router-dom";
-import Footer from "../home-one/footer";
-import Header from "../home-one/header";
-function LayoutOne() {
+import Footer from "../home-four/footer";
+import Header from "../home-four/header";
+function LayoutFour() {
 	return (
 		<>
 			<Header />
@@ -11,4 +11,4 @@ function LayoutOne() {
 	);
 }
 
-export default LayoutOne;
+export default LayoutFour;
