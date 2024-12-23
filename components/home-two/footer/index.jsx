@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import LogoDarkImg from "../../../public/images/logo/logo-dark.svg";
+import LogoDarkImg from "../../../public/images/logo/mustaf.jpeg";
 import FooterBg from "../../../public/images/v2/footer-bg.png";
 import FooterBottom from "./FooterBottom";
 function Footer() {

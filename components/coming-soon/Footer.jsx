@@ -1,4 +1,4 @@
-import Logo from "@/public/images/logo/logo-white.svg";
+import Logo from "@/public/images/logo/mustaf.jpeg";
 import Image from "next/image";
 import Link from "next/link";
 function Footer() {

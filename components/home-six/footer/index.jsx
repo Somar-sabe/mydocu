@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import LogoWhiteImg from "../../../public/images/logo/logo-white.svg";
+import LogoWhiteImg from "../../../public/images/logo/mustaf.jpeg";
 import ShapeImg from "../../../public/images/v6/shapes.png";
 import FooterContact from "./FooterContact";
 import FooterCopyright from "./FooterCopyright";

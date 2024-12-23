@@ -2,7 +2,7 @@
 import { FadeInStaggerTwo, FadeInStaggerTwoChildren } from "@/components/animation/FadeInStaggerTwo";
 import Image from "next/image";
 import Link from "next/link";
-import Logo from "../../../public/images/logo/logo-white.svg";
+import Logo from "../../../public/images/logo/mustaf.jpeg";
 import InstagramThumb from "../../../public/images/v4/instagram-thumb3.png";
 function HeaderSideMenu({ showSideMenu, setShowSideMenu }) {
 	return (

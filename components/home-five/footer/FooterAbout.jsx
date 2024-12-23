@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import DarkLogoImg from "../../../public/images/logo/logo-dark.svg";
+import DarkLogoImg from "../../../public/images/logo/mustaf.jpeg";
 function FooterAbout() {
 	return (
 		<div className="aximo-footer-textarea">
