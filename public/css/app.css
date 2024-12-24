@@ -2555,7 +2555,7 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 }
 .aximo-default-btn.blue-btn {
 	color: var(--light-color3) !important;
-	background-color: var(--blue-bg);
+	background-color: #e04e39;
 }
 .aximo-default-btn.blue-btn:hover {
 	background-color: var(--orange-bg2);
@@ -2578,7 +2578,7 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 }
 .aximo-default-btn.blue-btn2 {
 	color: var(--light-color6) !important;
-	background-color: var(--blue-bg);
+	background-color: #e04e39;
 	border: none;
 	box-shadow: none;
 }
@@ -2636,7 +2636,7 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 }
 .aximo-default-btn.aximo-header-btn.blue-btn2 {
 	color: var(--light-color6) !important;
-	background-color: var(--blue-bg);
+	background-color: #e04e39;
 	border: none;
 	box-shadow: none;
 }
@@ -3167,7 +3167,7 @@ button#aximo-submit-btn2:hover .aximo-label-up {
 	border: none !important;
 	padding: 0 !important;
 	color: var(--light-bg4);
-	background-color: var(--blue-bg);
+	background-color: #e04e39;
 	transition: all 0.4s;
 }
 #aximo-subscription-btn2:hover {
@@ -6507,7 +6507,7 @@ img.aximo-video-circle {
 }
 .aximo-social-icon6 ul li a:hover {
 	color: var(--light-bg6);
-	background-color: var(--blue-bg);
+	background-color: #e04e39;
 }
 .aximo-social-icon6.right {
 	text-align: right;
