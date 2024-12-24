@@ -27,8 +27,8 @@ import "../../public/css/main.css";
 import "../../public/css/mobile-nav.css";
 
 export const metadata = {
-	title: "Aximo ||   - Home Two",
-	description: "Aximo ||   Home Two",
+	title: ".    - Home Two",
+	description: ".    Home Two",
 };
 
 export default function HomeTwoLayout({ children }) {

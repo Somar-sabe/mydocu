@@ -27,8 +27,8 @@ import "../../public/css/main.css";
 import "../../public/css/mobile-nav.css";
 
 export const metadata = {
-	title: "Aximo ||   - Home Five",
-	description: "Aximo ||   Home Five",
+	title: ".    - Home Five",
+	description: ".    Home Five",
 };
 // className={`${syne.variable} ${arimo.variable} ${bricolage_grotesque.variable} ${familjen_grotesk.variable} ${libre_baskerville.variable} ${playfair_display.variable} ${ClashGroteskSemibold.variable} ${inter.variable}`}
 export default function HomeFiveLayout({ children }) {

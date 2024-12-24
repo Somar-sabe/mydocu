@@ -23,8 +23,8 @@ import "../../public/css/app.css";
 import "../../public/css/main.css";
 
 export const metadata = {
-	title: "Aximo ||  ",
-	description: "Aximo ||  ",
+	title: ".   ",
+	description: ".   ",
 };
 
 export default function LayoutEight({ children }) {

@@ -28,8 +28,8 @@ import "../../public/css/main.css";
 import "../../public/css/mobile-nav.css";
 
 export const metadata = {
-	title: "Aximo ||   - Home Three",
-	description: "Aximo ||   Home Three",
+	title: ".    - Home Three",
+	description: ".    Home Three",
 };
 
 export default function HomeThreeLayout({ children }) {

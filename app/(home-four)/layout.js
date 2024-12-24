@@ -28,8 +28,8 @@ import "../../public/css/main.css";
 import "../../public/css/mobile-nav.css";
 
 export const metadata = {
-	title: "Aximo ||   - Home Four",
-	description: "Aximo ||   Home Four",
+	title: ".    - Home Four",
+	description: ".    Home Four",
 };
 
 export default function HomeFourLayout({ children }) {
