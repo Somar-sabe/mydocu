@@ -28,8 +28,8 @@ import "../../public/css/main.css";
 import "../../public/css/mobile-nav.css";
 
 export const metadata = {
-	title: "Aximo || Responsive Next.js Template - Home Three",
-	description: "Aximo || Responsive Next.js Template Home Three",
+	title: "Aximo ||   - Home Three",
+	description: "Aximo ||   Home Three",
 };
 
 export default function HomeThreeLayout({ children }) {
